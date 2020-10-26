@@ -10,7 +10,7 @@ import { fork } from 'child_process';
 **/
 import { CLIEngine } from 'eslint';
 import { FileEnumerator } from 'eslint/lib/cli-engine/file-enumerator';
-import { CascadingConfigArrayFactory } from 'eslint/lib/cli-engine/cascading-config-array-factory';
+import { CascadingConfigArrayFactory } from '@eslint/eslintrc/lib/cascading-config-array-factory';
 
 /**
 * Local dependencies

@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "@babel/register": "^7.10.5",
+    "@eslint/eslintrc": "^0.2.0",
     "chalk": "^4.1.0",
     "strip-ansi": "^6.0.0",
     "text-table": "^0.2.0"
